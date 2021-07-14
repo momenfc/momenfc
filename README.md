@@ -1,38 +1,60 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-### 👨🏻‍💻 &nbsp;About Me
-🧐 &nbsp;Interested in full stack. Recent focus on FrontEnd.\
-🎓 &nbsp;I'm currently working as Front End developer at G2K Group.\
-💡  &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🌱 &nbsp;I'm on track for learning more about Back End language as Node js and Express.\
-✉️ &nbsp;You can shoot me an email at [Gmail](gamalmostafa92@gmail.com) I'll try to respond as soon as I can.\
+![](https://images.unsplash.com/photo-1563314706-38d8c9940942?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1872&q=80)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+## Hi there, I'm Momen - aka  [MeMo](https://github.com/momenfc) 👋
 
-### 🛠 &nbsp;Tech Stack
+### I'm a Husband, Developer, and Game player 🤣!!
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+- 🔭 I am currently working as a front end developer!
+- 🌱 I have created many websites and some of them are listed below. No problem if you take a look
+- 👯 I like what I do a lot, but there is no problem with having fun with video games in my spare time 🤣
+- 🥅 I am currently working as a freelancer, but my goal is to join a company so that we can rise together
+- ✉️ You can shoot me an email at [Gmail](momenfc55@gmail.com) I'll try to respond as soon as I can.
 
-### 🤝🏻 &nbsp;Connect with Me
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<br />
+<br />
+
+---
+
+### 🕗 Latest repos...
+
+- [Team Store](https://team-store.vercel.app/)
+- [Phone](https://phone-ivory.vercel.app/)
+- [Nexter](https://nexter-pi.vercel.app/)
+- [Bankist](https://bankist.vercel.app/)
+- [Pig game 🤣](https://pig-game-ochre.vercel.app/)
+
+👀 [want more...](https://vercel.com/momenfc)
+
+<br />
+<br />
+
+### 🤝🏻 &nbsp;Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mostafa-gamal-6b192a122/"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:gamalmostafa92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100004432962141"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/momen-nasser-ba88ba1b1/"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:momenfc55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100005340273136"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
------
-Credits: [Mostafa Gamal](https://github.com/mostafa2425)
+---
 
-Last Edited on: 11/12/2020
+Credits: [Momen nasser](https://github.com/momenfc)
+
+Last Edited on: 14/7/2021
+
 # Momen
